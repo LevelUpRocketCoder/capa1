@@ -60,7 +60,7 @@ export default function Hero({ currentLang, openContact }: HeroProps) {
         {/* SLIDE 0 – Galletería */}
         <div className="absolute inset-0 w-full h-full" style={{ zIndex: 1 }}>
           <img
-            src="/images/hero/slide-galleteria.jpg"
+            src="./images/hero/slide-galleteria.jpg"
             alt="Galletería Gustossi Bolivia"
             className="w-full h-full object-cover select-none object-center"
           />
@@ -77,7 +77,7 @@ export default function Hero({ currentLang, openContact }: HeroProps) {
           }}
         >
           <img
-            src="/images/hero/slide-cracker.jpg"
+            src="./images/hero/slide-cracker.jpg"
             alt="Crackers Gustossi Bolivia"
             className="w-full h-full object-cover select-none object-center"
           />
@@ -94,7 +94,7 @@ export default function Hero({ currentLang, openContact }: HeroProps) {
           }}
         >
           <img
-            src="/images/hero/slide-gustossito.jpg"
+            src="./images/hero/slide-gustossito.jpg"
             alt="Gustossito Gustossi Bolivia"
             className="w-full h-full object-cover select-none object-center"
           />
@@ -111,7 +111,7 @@ export default function Hero({ currentLang, openContact }: HeroProps) {
           }}
         >
           <img
-            src="/images/hero/hero-main.png"
+            src="./images/hero/hero-main.png"
             alt="Panadería y Repostería Gustossi Bolivia"
             className="w-full h-full object-cover select-none object-center"
           />

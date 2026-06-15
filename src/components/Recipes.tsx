@@ -66,7 +66,7 @@ export default function Recipes({ currentLang }: RecipesProps) {
               {/* Main Image */}
               <div className="w-[280px] h-[280px] lg:w-[380px] lg:h-[380px] rounded-full overflow-hidden border-[12px] border-white shadow-[0_15px_35px_rgba(0,0,0,0.15)] relative z-20">
                 <img 
-                  src="/images/recetas/tiramisu.jpg" 
+                  src="./images/recetas/tiramisu.jpg" 
                   alt="Tiramisú" 
                   className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
                 />
@@ -75,7 +75,7 @@ export default function Recipes({ currentLang }: RecipesProps) {
               {/* Badge */}
               <div className="absolute top-8 left-4 lg:top-[10%] lg:left-[5%] w-[100px] h-[100px] lg:w-[140px] lg:h-[140px] rounded-full overflow-hidden border-8 border-white shadow-[0_10px_25px_rgba(0,0,0,0.12)] z-30 bg-white flex items-center justify-center">
                 <img 
-                  src="/images/hero/slide-cracker.jpg" 
+                  src="./images/hero/slide-cracker.jpg" 
                   alt="Producto Gustossi" 
                   className="w-[80%] h-[80%] object-contain"
                 />

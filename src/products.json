@@ -3,7 +3,7 @@
     "id": "g1",
     "name": "Galletas Cracker Integral",
     "category": "galletas",
-    "image": "/images/categorias/galleteria.jpg",
+    "image": "./images/categorias/galleteria.jpg",
     "description": "La galleta cracker más querida de Bolivia. Crujiente, liviana y perfecta para acompañar cualquier momento del día. Elaborada con trigo integral seleccionado.",
     "division": "galleteria",
     "spec": "Paquete 200g / Caja display 12u"
@@ -12,7 +12,7 @@
     "id": "g2",
     "name": "Galletas Escolares Animalitos",
     "category": "galletas",
-    "image": "/images/categorias/galleteria.jpg",
+    "image": "./images/categorias/galleteria.jpg",
     "description": "Las favoritas de los niños. Divertidas formas de animalitos con un sabor dulce y suave que los más pequeños adoran en la escuela y en casa.",
     "division": "galleteria",
     "spec": "Paquete 120g / Caja display 24u"
@@ -21,7 +21,7 @@
     "id": "g3",
     "name": "Galleta Chip Almendra",
     "category": "galletas",
-    "image": "/images/categorias/galleteria.jpg",
+    "image": "./images/categorias/galleteria.jpg",
     "description": "Exquisita galleta con chips de chocolate y trozos de almendra seleccionada. Un placer para los amantes del chocolate y los frutos secos.",
     "division": "galleteria",
     "spec": "Bandeja 150g / Línea Premium"
@@ -30,7 +30,7 @@
     "id": "g4",
     "name": "Galleta Chip de Chocolate",
     "category": "galletas",
-    "image": "/images/categorias/galleteria.jpg",
+    "image": "./images/categorias/galleteria.jpg",
     "description": "Irresistibles galletas con chips de chocolate en cada bocado. Textura perfecta entre crujiente y suave para disfrutar en cualquier momento.",
     "division": "galleteria",
     "spec": "Bandeja 150g / Caja display 12u"
@@ -39,7 +39,7 @@
     "id": "r1",
     "name": "Línea Repostería Clásica",
     "category": "reposteria",
-    "image": "/images/categorias/reposteria.jpg",
+    "image": "./images/categorias/reposteria.jpg",
     "description": "La más rica repostería artesanal de Bolivia. Elaborada con recetas tradicionales y los mejores ingredientes seleccionados para cada ocasión especial.",
     "division": "galleteria",
     "spec": "Presentación variada / Ver catálogo"
@@ -48,7 +48,7 @@
     "id": "r2",
     "name": "Repostería Festiva",
     "category": "reposteria",
-    "image": "/images/categorias/reposteria.jpg",
+    "image": "./images/categorias/reposteria.jpg",
     "description": "Dulces y pasteles especiales para celebraciones. Recetas únicas con ingredientes de primera calidad para hacer de cada momento algo especial.",
     "division": "galleteria",
     "spec": "Presentación individual / Caja"
@@ -57,7 +57,7 @@
     "id": "w1",
     "name": "Wafer Vainilla",
     "category": "wafer",
-    "image": "/images/categorias/wafer.jpg",
+    "image": "./images/categorias/wafer.jpg",
     "description": "Deliciosas galletas obleas con relleno de vainilla. Crujientes capas de oblea con cremoso relleno para disfrutar en cualquier momento del día.",
     "division": "galleteria",
     "spec": "Paquete 100g / Caja display 24u"
@@ -66,7 +66,7 @@
     "id": "w2",
     "name": "Wafer Chocolate",
     "category": "wafer",
-    "image": "/images/categorias/wafer.jpg",
+    "image": "./images/categorias/wafer.jpg",
     "description": "Irresistibles galletas obleas con intenso relleno de chocolate. La combinación perfecta de textura crujiente y sabor chocolatoso en cada bocado.",
     "division": "galleteria",
     "spec": "Paquete 100g / Caja display 24u"
@@ -75,7 +75,7 @@
     "id": "rl1",
     "name": "Galleta Rellenita Fresa",
     "category": "rellenas",
-    "image": "/images/categorias/rellenas.jpg",
+    "image": "./images/categorias/rellenas.jpg",
     "description": "La favorita de Bolivia. Galleta suave con delicioso relleno de fresa, perfecta para los momentos de antojo y para compartir en familia.",
     "division": "galleteria",
     "spec": "Paquete 150g / Caja display"
@@ -84,7 +84,7 @@
     "id": "rl2",
     "name": "Galleta Rellenita Chocolate",
     "category": "rellenas",
-    "image": "/images/categorias/rellenas.jpg",
+    "image": "./images/categorias/rellenas.jpg",
     "description": "Suave galleta con irresistible relleno de chocolate. Ideal para el desayuno, la merienda o cualquier momento en que necesites un dulce placer.",
     "division": "galleteria",
     "spec": "Paquete 150g / Caja display"
@@ -93,7 +93,7 @@
     "id": "n1",
     "name": "Panetón Tradicional",
     "category": "panetones",
-    "image": "/images/categorias/navideno.jpg",
+    "image": "./images/categorias/navideno.jpg",
     "description": "La tradición navideña boliviana en cada bocado. Panetón esponjoso, aromático y elaborado con los mejores ingredientes para compartir en familia.",
     "division": "navidad",
     "spec": "Caja 500g / Caja 1kg"
@@ -102,7 +102,7 @@
     "id": "n2",
     "name": "Panetón de Chocolate",
     "category": "panetones",
-    "image": "/images/categorias/navideno.jpg",
+    "image": "./images/categorias/navideno.jpg",
     "description": "El clásico panetón navideño con un delicioso toque de chocolate. Perfecto para los amantes del chocolate en la época más especial del año.",
     "division": "navidad",
     "spec": "Caja 500g / Edición Navidad"
@@ -111,7 +111,7 @@
     "id": "n3",
     "name": "Rosca Navideña",
     "category": "roscas",
-    "image": "/images/categorias/navideno.jpg",
+    "image": "./images/categorias/navideno.jpg",
     "description": "Tradicional rosca navideña boliviana, suave y esponjosa. El complemento perfecto para las reuniones y celebraciones de fin de año en familia.",
     "division": "navidad",
     "spec": "Bolsa / Caja display"
@@ -120,7 +120,7 @@
     "id": "q1",
     "name": "Queque Vainilla",
     "category": "queques",
-    "image": "/images/categorias/queques.jpg",
+    "image": "./images/categorias/queques.jpg",
     "description": "Tierno y esponjoso queque de vainilla en presentación individual. El sabor casero que todos amamos, ahora en el práctico formato de llevar.",
     "division": "navidad",
     "spec": "Unidad individual / Caja 12u"
@@ -129,7 +129,7 @@
     "id": "q2",
     "name": "Queque Chocolate",
     "category": "queques",
-    "image": "/images/categorias/queques.jpg",
+    "image": "./images/categorias/queques.jpg",
     "description": "Esponjoso queque con sabor a chocolate en presentación individual. Perfecto para el desayuno o la merienda de toda la familia.",
     "division": "navidad",
     "spec": "Unidad individual / Caja 12u"

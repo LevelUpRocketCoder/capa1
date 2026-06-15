@@ -64,7 +64,7 @@ function adminApiPlugin(): Plugin {
                 }
                 
                 fs.writeFileSync(imagePath, buffer);
-                newProduct.image = `/images/categorias/${fileName}`;
+                newProduct.image = `./images/categorias/${fileName}`;
               }
               delete newProduct.imageData;
             }

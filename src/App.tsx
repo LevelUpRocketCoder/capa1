@@ -91,7 +91,7 @@ export default function App() {
               <div className="absolute -inset-3 border border-gold/20 rounded-sm pointer-events-none" />
               <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-gold/10 rounded-sm pointer-events-none" />
               <img
-                src="/images/bakery-pattern.png"
+                src="./images/bakery-pattern.png"
                 alt={isES ? 'Industrias Gustossi - Fabricación Artesanal' : 'Industrias Gustossi - Artisan Production'}
                 className="w-full aspect-[4/3] object-cover rounded-sm shadow-2xl group-hover:shadow-gold/10 transition-shadow duration-500"
               />

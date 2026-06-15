@@ -13,7 +13,7 @@ const CATEGORIES = [
     nameEN: 'Cookies',
     descES: 'Las más ricas galletas de Bolivia',
     descEN: 'The finest cookies in Bolivia',
-    image: '/images/categorias/galleteria.jpg',
+    image: './images/categorias/galleteria.jpg',
     url: 'https://www.industriasgustossi.com.bo/galleteria/',
   },
   {
@@ -22,7 +22,7 @@ const CATEGORIES = [
     nameEN: 'Pastries',
     descES: 'Repostería artesanal de calidad superior',
     descEN: 'Premium artisan pastries',
-    image: '/images/categorias/reposteria.jpg',
+    image: './images/categorias/reposteria.jpg',
     url: 'https://www.industriasgustossi.com.bo/reposteria/',
   },
   {
@@ -31,7 +31,7 @@ const CATEGORIES = [
     nameEN: 'Christmas',
     descES: 'Variedad en productos navideños: Panetón, etc.',
     descEN: 'Christmas treats: Panettone and more',
-    image: '/images/categorias/navideno.jpg',
+    image: './images/categorias/navideno.jpg',
     url: 'https://www.industriasgustossi.com.bo/navidad/',
   },
   {
@@ -40,7 +40,7 @@ const CATEGORIES = [
     nameEN: 'Wafer',
     descES: 'Deliciosas galletas obleas de varios sabores',
     descEN: 'Delicious wafer cookies in many flavors',
-    image: '/images/categorias/wafer.jpg',
+    image: './images/categorias/wafer.jpg',
     url: 'https://www.industriasgustossi.com.bo/wafer/',
   },
   {
@@ -49,7 +49,7 @@ const CATEGORIES = [
     nameEN: 'Filled',
     descES: 'Galletas rellenas en múltiples sabores',
     descEN: 'Filled cookies in multiple flavors',
-    image: '/images/categorias/rellenas.jpg',
+    image: './images/categorias/rellenas.jpg',
     url: 'https://www.industriasgustossi.com.bo/rellena/',
   },
   {
@@ -58,7 +58,7 @@ const CATEGORIES = [
     nameEN: 'Cake',
     descES: 'Tiernos queques bolivianos',
     descEN: 'Tender Bolivian cakes',
-    image: '/images/categorias/queques.jpg',
+    image: './images/categorias/queques.jpg',
     url: 'https://www.industriasgustossi.com.bo/queque/',
   },
 ];
