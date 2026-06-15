@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Industrias Gustossi",
+  "description": "Sitio web oficial de Industrias Gustossi, destacando su indiscutible calidad en embutidos gourmet, fiambres tradicionales de Cochabamba y quesos seleccionados para hogares y el canal profesional Horeca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
