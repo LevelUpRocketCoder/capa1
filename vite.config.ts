@@ -108,6 +108,7 @@ function adminApiPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
+    base: '/capa1/',
     plugins: [react(), tailwindcss(), adminApiPlugin()],
     resolve: {
       alias: {
